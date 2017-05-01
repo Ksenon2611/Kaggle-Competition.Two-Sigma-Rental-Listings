@@ -2,6 +2,7 @@
 This competition required to build model which will be predict  client's interest to each new rental listing on Renthop.com.
 
 It was my first competition at Kaggle and I finished at 194th place from 2500 competitors (TOP 8%).
+My final script has one XGBoost model + StackNet (thanks to Kazanova).
 
 
 DESCRIPTION OF COMPETITION
